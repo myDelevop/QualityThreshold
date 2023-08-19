@@ -1,0 +1,12 @@
+Guida di installazione:
+
+1.Estrarre il contenuto dell'archivio in una cartella
+2.Importare il Database attraverso il file createDB.sql:
+  2.1. Aprire la sqlcmd (Lo Shell CMD di Mysql)
+  2.2. Digitare il comando source "PERCORSO DOVE SI TROVA IL FILE createDB.sql" 
+       (Esempio: source C:\Users\amari_000\Desktop\progetto_map\createDB.sql)
+  2.3. Attendere il completamento dell'operazione
+3.Doppio click sul file Avvio Server.bat
+4.Aprire il pannello di controllo Java, spostarsi sulla tab Sicurezza,e in basso cliccare su modifica lista siti, e aggiungere
+il percorso del file.html(Esempio: file:///C:/Users/amari_000/Desktop/progetto_map/QT.html)	
+5.Aprire con qualsiasi browser il file QT.html

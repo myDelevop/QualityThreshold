@@ -1,0 +1,14 @@
+﻿Guida utente
+a. Avviare il file QT.html sul browser.
+
+Guida all'uso della tab DB:
+1. Inserire il nome della tabella presente nel database
+2. Inserire il valore del raggio
+3. Inserire il tipo di distanza con cui si vuole lavorare (edit o euclidea)
+4. Inserire il nome del file in cui si vogliono salvare i centroidi calcolati
+5. Cliccare sul pulsante "CLUSTER"
+
+
+Guida all'uso della tab FILE
+1. Inserire il nome del file (senza estensione) da cui si vogliono leggere i centroidi salvati precedentemente.
+2. Cliccare sul pulsante "FILE"
